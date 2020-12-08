@@ -4,7 +4,7 @@ title: "Blue Quilt"
 description: "Blue Mandala Quilt."
 templateKey: home
 lang: en
-image: /img/BLUE-round1-8-COLORED.png
+image: /BLUE-round1-8-COLORED.png
 heading: "Blue Mandala Quilt."
 slider:
   display: 'slide'
@@ -21,7 +21,7 @@ mainpitch:
 main:
   image1:
     alt: a quilt
-    image: /img/BLUE-round1-8-COLORED.png
+    image: /BLUE-round1-8-COLORED.png
 testimonials:
   - author: anonimous
     quote: >-
