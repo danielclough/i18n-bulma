@@ -2,6 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { FaCircle, FaPaintBrush, FaGavel, FaBolt, FaHandPointer } from 'react-icons/fa';
 import { FormattedMessage } from 'react-intl';
+import PreviewImage from '../components/PreviewCompatibleImage'
 
 const IconMenu = class extends React.Component {
 
