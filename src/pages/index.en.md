@@ -15,7 +15,7 @@ mainpitch:
   subheading: "Digital Patterns"
   title: "Why Kiki's Quilt Patterns?"
   description: "Because we make it easy to do difficult things."
-  link: /it/opere/nuovi-media/realtà-aumentata/
+  link: /ja/opere/nuovi-media/realtà-aumentata/
 main:
   image1:
     alt: a quilt
