@@ -2,7 +2,7 @@ const languages = require('./src/data/languages');
 
 module.exports = {
   siteMetadata: {
-    title: `Gatsby with Bulma and i18n`,
+    title: "Kiki's Quilts",
     description: `
   This is a blog theme. The description will be showed in SEO results on pages
   without their own descriptions.
@@ -10,15 +10,15 @@ module.exports = {
     siteUrl: "https://gatsby-starter-i18n-bulma.netlify.app",
     image: 'img.jpg',
     author: {
-      name: 'Your Name',
+      name: 'Kiki',
       minibio: `
-        This bio is shown at the bottom of each blog post. It supports
-        <strong>custom HTML</strong> if you’re into that sort of thing.
+        This bio is shown at the bottom of each blog post. Find it in
+        <strong>gatsby-config.js</strong> to change it.
       `,
     },
     organization: {
-      name: 'Example, Inc.',
-      url: 'https://example.com',
+      name: "Kiki's Quilts",
+      url: 'https://kikisquilts.com',
       logo: 'img/logo.svg',
     },
     social: {
@@ -125,8 +125,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `KAKI`,
-        short_name: `Kaki`,
+        name: "Kiki`s Quilts",
+        short_name: `Kikisquilts.com`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#D64000`,

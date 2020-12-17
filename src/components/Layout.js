@@ -10,7 +10,7 @@ import './all.sass'
 if (!Intl.RelativeTimeFormat) {
   require('@formatjs/intl-relativetimeformat/polyfill');
   require('@formatjs/intl-relativetimeformat/dist/locale-data/en'); // Add locale data for de
-  require('@formatjs/intl-relativetimeformat/dist/locale-data/it');
+  require('@formatjs/intl-relativetimeformat/dist/locale-data/ja');
 }
 
 const getIdJsonUrl = (id, langKey, jsonData) => {
@@ -21,8 +21,8 @@ const getIdJsonUrl = (id, langKey, jsonData) => {
     case 'en':
     res = jsonData[id].en;
     break;
-    case 'it':
-    res = jsonData[id].it;
+    case 'ja':
+    res = jsonData[id].ja;
     break;
     default: return ' ';
   }
@@ -51,14 +51,14 @@ const check_path = (langKey, _url, id_article, jsonData) => {
 const setLangsMenu = ( langsMenu, id, basePath, jsonData) => {
   if(id !== 'undefined'){
   langsMenu[0].link = `/en/${basePath}` + getIdJsonUrl(id, 'en', jsonData) + '/';
-  langsMenu[1].link = `/it/${basePath}` + getIdJsonUrl(id, 'it', jsonData) + '/';
+  langsMenu[1].link = `/ja/${basePath}` + getIdJsonUrl(id, 'ja', jsonData) + '/';
   }else{
   console.log("missed id in the setLangsMenu() function!");
   }
 };
 
 // add concatenated locale data
-//addLocaleData([...en, ...it]);
+//addLocaleData([...en, ...ja]);
 
 class TemplateWrapper extends Component {
   constructor(props) {

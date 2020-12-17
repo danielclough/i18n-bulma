@@ -127,7 +127,7 @@ query ArtworksSimpleQuery($id: String!) {
    node{
      articles {
        en
-       it
+       ja
      }
    }
  }

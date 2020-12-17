@@ -9,8 +9,8 @@ const switchData = (data, langKey) => {
     case('en'):
      return posts = data.en;
     break;
-    case('it'):
-     return posts = data.it;
+    case('ja'):
+     return posts = data.ja;
     break;
     default: return ' ';
   }
@@ -110,10 +110,10 @@ export default (langKey) => (
           }
         }
       }
-      it: allMarkdownRemark(
+      ja: allMarkdownRemark(
         sort: { order: DESC, fields: [frontmatter___date] },
         filter: { frontmatter: { templateKey: { eq: "blog-post" },
-                                 lang: { regex: "/(it|any)/" }}}
+                                 lang: { regex: "/(ja|any)/" }}}
       ) {
         edges {
           node {

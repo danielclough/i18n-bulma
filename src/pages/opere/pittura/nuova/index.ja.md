@@ -7,10 +7,10 @@ description: "Pagina dedicata alle opere di pittura recenti"
 templateKey: artworks
 tags:
   - art
-lang: it
+lang: ja
 date: "22-03-2019"
-path: /it/opere/pittura/nuova/
-slug: /it/opere/pittura/nuova/
+path: /ja/opere/pittura/nuova/
+slug: /ja/opere/pittura/nuova/
 intro:
   blurbs:
     - image: /img/Persimmon.jpg
@@ -33,4 +33,4 @@ Di seguito le Opere pittoriche in questa collezione:
 
 [Un caco tra le stelle][19392250]
 
-  [19392250]: /it/opere/pittura/nuova/arte-astratta-caco-tra-le-stelle/ "Un caco tra le stelle"
+  [19392250]: /ja/opere/pittura/nuova/arte-astratta-caco-tra-le-stelle/ "Un caco tra le stelle"

@@ -7,10 +7,10 @@ description: "Un caco tra le stelle è un opera astratta realizzata con colore a
 templateKey: artworks-simple
 tags:
   - art
-lang: it
+lang: ja
 date: "07-05-2019"
-path: /it/opere/pittura/nuova/arte-astratta-caco-tra-le-stelle/
-slug: /it/opere/pittura/nuova/arte-astratta-caco-tra-le-stelle/
+path: /ja/opere/pittura/nuova/arte-astratta-caco-tra-le-stelle/
+slug: /ja/opere/pittura/nuova/arte-astratta-caco-tra-le-stelle/
 lightbox:
   display: true
   images:

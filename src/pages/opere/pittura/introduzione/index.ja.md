@@ -8,30 +8,30 @@ templateKey: artworks-intro
 tags:
   - art
   - pittura
-lang: it
+lang: ja
 date: "15-03-2019"
-path: /it/opere/pittura/introduzione/
-slug: /it/opere/pittura/introduzione/
+path: /ja/opere/pittura/introduzione/
+slug: /ja/opere/pittura/introduzione/
 intro:
   blurbs:
     - image: /img/Persimmon.jpg
       heading: Pittura
-      link: /it/opere/pittura/
+      link: /ja/opere/pittura/
       text: >
         Dovresti testare il frutto del caco, ne vale la pena!
     - image: /img/Kaki.jpg
       heading: Scultura
-      link: /it/opere/scultura/
+      link: /ja/opere/scultura/
       text: >
         Perchè non decidi di piantare un'albero di caco nel tuo giardino?
     - image: /img/Caco.jpg
       heading: Performance
-      link: /it/opere/performance/
+      link: /ja/opere/performance/
       text: >
         La Perfezione si rivela nel dettaglio...
     - image: /img/Kaki_di_Misilmeri.jpg
       heading: Arte Interattiva
-      link: /it/opere/arte-interattiva/
+      link: /ja/opere/arte-interattiva/
       text: >
         Se anche solo potessi mangiare uno di quei frutti...
 ---

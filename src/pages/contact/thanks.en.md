@@ -5,7 +5,7 @@ description: "Thank you page"
 templateKey: message
 tags:
   - web
-lang: it
+lang: ja
 image: /img/PersimmonHD.jpg
 date: "31-03-2019"
 path: /en/contact/thanks/

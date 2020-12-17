@@ -8,7 +8,7 @@ import It from './Flags/It';
 const getIcon = langKey => {
   switch (langKey) {
     case 'en': return <En />;
-    case 'it': return <It />;
+    case 'ja': return <It />;
     default: return null;
   }
 };

@@ -7,10 +7,10 @@ description: "Pagina di introduzione dedicata alle opere di performance"
 templateKey: artworks-intro
 tags:
   - art
-lang: it
+lang: ja
 date: "22-03-2019"
-path: /it/opere/performance/introduzione/
-slug: /it/opere/performance/introduzione/
+path: /ja/opere/performance/introduzione/
+slug: /ja/opere/performance/introduzione/
 intro:
   blurbs:
     - image: /img/Persimmon.jpg

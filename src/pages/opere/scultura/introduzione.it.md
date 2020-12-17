@@ -7,10 +7,10 @@ description: "Pagina dedicata alle opere di scultura - introduzione"
 templateKey: artworks-intro
 tags:
   - art
-lang: it
+lang: ja
 date: "22-03-2019"
-path: /it/opere/scultura/introduzione/
-slug: /it/opere/scultura/introduzione/
+path: /ja/opere/scultura/introduzione/
+slug: /ja/opere/scultura/introduzione/
 intro:
   blurbs:
     - image: /img/Persimmon.jpg

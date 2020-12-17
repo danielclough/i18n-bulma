@@ -19,8 +19,8 @@ mainpitch:
   heading: "Artworks with augmented reality"
   subheading: "Interactive Art"
   title: "Why Kaki?"
-  description: "Because it is a fruit with incredible qualities..."
-  link: /it/opere/nuovi-media/realtà-aumentata/
+  description: "Because ja is a fruit with incredible qualities..."
+  link: /ja/opere/nuovi-media/realtà-aumentata/
 main:
   image1:
     alt: a persimmon

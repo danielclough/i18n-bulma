@@ -1,11 +1,11 @@
 ---
 id: '04'
-title: "Contact page"
-description: "Page to send an e-mail"
+title: "お問い合わせページ"
+description: "電子メールを送信するページ"
 templateKey: contacts
 tags:
   - web
-lang: en
+lang: ja
 image: /img/PersimmonHD.jpg
 date: "08-03-2019"
 address: "1138 Magic Way, 34121 Koriko, USA "
@@ -16,12 +16,12 @@ instagram: '@kikisquilts'
 locations:
    lat: 36.1699
    lng: -115.1398
-   message: 'Kiki is here!'
+   message: 'キキはここにあります！'
 imageCardSL:
-  alt: "immagine"
+  alt: "Kiki's Quilts"
   image: /img/128x128.png
   name: Kiki
-  description: Exploring Japanese and American Crafts!
+  description: "日本とアメリカの工芸品を探る！"
   website: www.kikisquilts.com
 path: /en/contact
 slug: /en/contact

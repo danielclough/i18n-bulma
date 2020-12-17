@@ -4,10 +4,10 @@ templateKey: blog-post
 title: News dal mondo dell'arte.
 date: 2019-03-11
 description: Un articolo per parlare di arte e interattività.
-lang: it
+lang: ja
 image: /img/PersimmonHD.jpg
-path: /it/blog/2019-03-11-notizie-dal-pianeta-arte
-slug: /it/blog/2019-03-11-notizie-dal-pianeta-arte
+path: /ja/blog/2019-03-11-notizie-dal-pianeta-arte
+slug: /ja/blog/2019-03-11-notizie-dal-pianeta-arte
 tags:
   - art
 ---

@@ -9,30 +9,30 @@ description: "La pagina principale delle opere"
 templateKey: artworks
 tags:
   - art
-lang: it
+lang: ja
 date: "05-03-2019"
-path: /it/opere/
-slug: /it/opere/
+path: /ja/opere/
+slug: /ja/opere/
 intro:
   blurbs:
     - image: /img/Persimmon.jpg
       heading: Pittura
-      link: /it/opere/pittura/
+      link: /ja/opere/pittura/
       text: >
         In queste pagine potete trovare alcune interessante riflessioni sul caco.
     - image: /img/Kaki.jpg
       heading: Scultura
-      link: /it/opere/scultura/
+      link: /ja/opere/scultura/
       text: >
         Molti artisti hanno ritratto l'albero del caco, scopri quanti ne sono rimasti affascinati.
     - image: /img/Caco.jpg
       heading: Performance
-      link: /it/opere/performance/
+      link: /ja/opere/performance/
       text: >
         La Perfezione si rivela nel dettaglio...
     - image: /img/Kaki_di_Misilmeri.jpg
       heading: Arte Interattiva
-      link: /it/opere/arte-interattiva/
+      link: /ja/opere/arte-interattiva/
       text: >
         Se anche solo potessi mangiare uno di quei frutti...
 slider:

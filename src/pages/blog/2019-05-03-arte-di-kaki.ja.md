@@ -4,10 +4,10 @@ templateKey: blog-post
 title: Il mondo di Kaki
 date: 2019-05-03
 description: Un articolo per parlare sull'Arte e sul mondo che ci gira attorno.
-lang: it
+lang: ja
 image: /img/PersimmonHD.jpg
-path: /it/blog/2019-05-03-arte-di-kaki
-slug: /it/blog/2019-05-03-arte-di-kaki
+path: /ja/blog/2019-05-03-arte-di-kaki
+slug: /ja/blog/2019-05-03-arte-di-kaki
 tags:
   - art
 ---

@@ -7,10 +7,10 @@ description: "Pagina di introduzione dedicata alle opere di performance"
 templateKey: artworks-simple
 tags:
   - art
-lang: it
+lang: ja
 date: "22-03-2019"
-path: /it/opere/performance/performance01/
-slug: /it/opere/performance/performance01/
+path: /ja/opere/performance/performance01/
+slug: /ja/opere/performance/performance01/
 lightbox:
   display: true
   images:

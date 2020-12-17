@@ -3,7 +3,7 @@ id: '15'
 templateKey: blog-post
 title: The Art of Kaki
 date: 2019-05-03
-description: An article to speak about Art and the world around it.
+description: An article to speak about Art and the world around ja.
 lang: en
 image: /img/PersimmonHD.jpg
 path: /en/blog/2019-05-03-art-of-kaki

@@ -126,7 +126,7 @@ query ArtworksQuery($id: String!) {
    node{
      articles {
        en
-       it
+       ja
      }
    }
  }
