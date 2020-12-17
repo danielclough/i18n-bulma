@@ -1,7 +1,7 @@
 ---
 id: '24'
 title: "Performance artworks page introduction  - performance 01 - english"
-image: /img/Persimmon.jpg
+image: /img/BLUE-round1-8-COLORED.png
 heading: The beauty of Persimmon
 description: "Artworks introduction page for performance"
 templateKey: artworks-simple
@@ -14,9 +14,9 @@ slug: /en/artworks/performance/performance01/
 lightbox:
   display: true
   images:
-    - image: /img/Kaki.jpg
+    - image: /img/BLUE-round1-8-COLORED.png
       alt: "Some Persimmon on the tree"
-    - image: /img/Persimmon.jpg
+    - image: /img/BLUE-round1-8-COLORED.png
       alt: "A Persimmon tree"
 info:
   title: "Un caco tra le stelle"
@@ -26,10 +26,10 @@ info:
   dimensions: "70x50 cm"  
 intro:
   blurbs:
-    - image: /img/Persimmon.jpg
+    - image: /img/BLUE-round1-8-COLORED.png
       text: >
         Have you ever done a performance with a Persimmon? I do!
-    - image: /img/Kaki.jpg
+    - image: /img/BLUE-round1-8-COLORED.png
       text: >
         Imagine climbing up a persimmon tree, what would you see once at the top?
 slider:

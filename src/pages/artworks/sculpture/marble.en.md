@@ -1,7 +1,7 @@
 ---
 id: '06'
 title: "Artworks Introduction page - Marble Sculpture"
-image: /img/Persimmon.jpg
+image: /img/BLUE-round1-8-COLORED.png
 heading: The beauty of Persimmon
 description: "An introduction for the marble artworks sculpture page"
 templateKey: artworks-intro
@@ -13,12 +13,12 @@ path: /en/artworks/sculpture/marble/
 slug: /en/artworks/sculpture/marble/
 intro:
   blurbs:
-    - image: /img/Persimmon.jpg
+    - image: /img/BLUE-round1-8-COLORED.png
       heading: Painting
       link: /en/artworks/painting/
       text: >
         You should test the fruit of the persimmon, it's worth it!
-    - image: /img/Kaki.jpg
+    - image: /img/BLUE-round1-8-COLORED.png
       heading: Sculpture
       link: /en/artworks/sculpture/
       text: >
@@ -28,7 +28,7 @@ intro:
       link: /en/artworks/performance/
       text: >
         The Perfection is revealed in detail...
-    - image: /img/Kaki_di_Misilmeri.jpg
+    - image: /img/BLUE-round1-8-COLORED.png
       heading: Interactive Art
       link: /en/artworks/interactivity/
       text: >

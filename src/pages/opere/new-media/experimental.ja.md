@@ -1,7 +1,7 @@
 ---
 id: '28'
 title: "Pagina di opere sperimentali - jaaliano"
-image: /img/Persimmon.jpg
+image: /img/BLUE-round1-8-COLORED.png
 heading: La bellezza del caco
 description: "Pagina di introduzione dedicata alle opere di sperimentali"
 templateKey: artworks-intro
@@ -13,10 +13,10 @@ path: /ja/opere/new-media/experimental/
 slug: /ja/opere/new-media/experimental/
 intro:
   blurbs:
-    - image: /img/Persimmon.jpg
+    - image: /img/BLUE-round1-8-COLORED.png
       text: >
         Bisognerebbe interagire di più con il caco, ne migliorerebbe la salute!
-    - image: /img/Kaki.jpg
+    - image: /img/BLUE-round1-8-COLORED.png
       text: >
         Hai mai pensato di creare un bosco di cachi?
 slider:

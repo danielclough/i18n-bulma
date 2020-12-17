@@ -6,7 +6,7 @@ templateKey: message
 tags:
   - web
 lang: ja
-image: /img/PersimmonHD.jpg
+image: /img/BLUE-round1-8-COLORED.png
 date: "31-03-2019"
 path: /ja/contatto/grazie/
 slug: /ja/contatto/grazie/

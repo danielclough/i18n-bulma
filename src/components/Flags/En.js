@@ -3,20 +3,45 @@ import Icon from 'react-icon-base';
 
 const En = (props) => {
   return (
-    <Icon viewBox="0 0 640 480" {...props}>
-    <defs>
-   <clipPath id="a">
-     <path fillOpacity=".7" d="M-85.3 0h682.6v512H-85.3z"/>
-   </clipPath>
- </defs>
- <g clipPath="url(#a)" transform="translate(80) scale(.94)">
-   <g strokeWidth="1pt">
-     <path fill="#012169" d="M-256 0H768v512H-256z"/>
-     <path fill="#fff" d="M-256 0v57.2L653.5 512H768v-57.2L-141.5 0H-256zM768 0v57.2L-141.5 512H-256v-57.2L653.5 0H768z"/>
-     <path fill="#fff" d="M170.7 0v512h170.6V0H170.7zM-256 170.7v170.6H768V170.7H-256z"/>
-     <path fill="#c8102e" d="M-256 204.8v102.4H768V204.8H-256zM204.8 0v512h102.4V0H204.8zM-256 512L85.3 341.3h76.4L-179.7 512H-256zm0-512L85.3 170.7H9L-256 38.2V0zm606.4 170.7L691.7 0H768L426.7 170.7h-76.3zM768 512L426.7 341.3H503l265 132.5V512z"/>
-   </g>
- </g>
+    <Icon viewBox="0 0 1235 650" {...props}>
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          xmlnsXlink="http://www.w3.org/1999/xlink"
+          width="1235"
+          height="650"
+          viewBox="0 0 7410 3900"
+        >
+          <path fill="#b22234" d="M0 0H7410V3900H0z"></path>
+          <path
+            stroke="#fff"
+            strokeWidth="300"
+            d="M0 450h7410m0 600H0m0 600h7410m0 600H0m0 600h7410m0 600H0"
+          ></path>
+          <path fill="#3c3b6e" d="M0 0H2964V2100H0z"></path>
+          <g fill="#fff">
+            <g id="s18">
+              <g id="s9">
+                <g id="s5">
+                  <g id="s4">
+                    <path
+                      id="s"
+                      d="M247 90l70.534 217.082-184.66-134.164h228.253L176.466 307.082z"
+                    ></path>
+                    <use y="420" xlinkHref="#s"></use>
+                    <use y="840" xlinkHref="#s"></use>
+                    <use y="1260" xlinkHref="#s"></use>
+                  </g>
+                  <use y="1680" xlinkHref="#s"></use>
+                </g>
+                <use x="247" y="210" xlinkHref="#s4"></use>
+              </g>
+              <use x="494" xlinkHref="#s9"></use>
+            </g>
+            <use x="988" xlinkHref="#s18"></use>
+            <use x="1976" xlinkHref="#s9"></use>
+            <use x="2470" xlinkHref="#s5"></use>
+          </g>
+        </svg>
     </Icon>
   );
 };

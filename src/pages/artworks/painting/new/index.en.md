@@ -1,7 +1,7 @@
 ---
 id: '19'
 title: "New Painting artworks page - english"
-image: /img/Persimmon.jpg
+image: /img/BLUE-round1-8-COLORED.png
 heading: The beauty of Persimmon
 description: "Artworks page for newest painting"
 templateKey: artworks
@@ -13,10 +13,10 @@ path: /en/artworks/painting/new/
 slug: /en/artworks/painting/new/
 intro:
   blurbs:
-    - image: /img/Persimmon.jpg
+    - image: /img/BLUE-round1-8-COLORED.png
       text: >
         The persimmon is a fruit that grows on a tree and in autumn is tinged with orange ... How many poets did it inspire?
-    - image: /img/Kaki.jpg
+    - image: /img/BLUE-round1-8-COLORED.png
       text: >
         Many ripe persimmon on a tree. A beautiful subject for painting.
 slider:

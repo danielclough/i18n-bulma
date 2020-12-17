@@ -5,7 +5,7 @@ title: News dal mondo dell'arte.
 date: 2019-03-11
 description: Un articolo per parlare di arte e interattività.
 lang: ja
-image: /img/PersimmonHD.jpg
+image: /img/BLUE-round1-8-COLORED.png
 path: /ja/blog/2019-03-11-notizie-dal-pianeta-arte
 slug: /ja/blog/2019-03-11-notizie-dal-pianeta-arte
 tags:

@@ -1,7 +1,7 @@
 ---
 id: '10'
 title: "Sculpture artworks introduction page - english"
-image: /img/Persimmon.jpg
+image: /img/BLUE-round1-8-COLORED.png
 heading: The beauty of Persimmon
 description: "Artworks introduction page for sculpture"
 templateKey: artworks-intro
@@ -13,10 +13,10 @@ path: /en/artworks/sculpture/introduction/
 slug: /en/artworks/sculpture/introduction/
 intro:
   blurbs:
-    - image: /img/Persimmon.jpg
+    - image: /img/BLUE-round1-8-COLORED.png
       text: >
         Who would have thought that a persimmon is perfect for a sculpture?
-    - image: /img/Kaki.jpg
+    - image: /img/BLUE-round1-8-COLORED.png
       text: >
         No matter how many trees I've ever seen, nothing matches persimmon wood ...
 slider:

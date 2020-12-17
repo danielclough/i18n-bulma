@@ -5,7 +5,7 @@ title: Il mondo di Kaki
 date: 2019-05-03
 description: Un articolo per parlare sull'Arte e sul mondo che ci gira attorno.
 lang: ja
-image: /img/PersimmonHD.jpg
+image: /img/BLUE-round1-8-COLORED.png
 path: /ja/blog/2019-05-03-arte-di-kaki
 slug: /ja/blog/2019-05-03-arte-di-kaki
 tags:

@@ -1,7 +1,7 @@
 ---
 id: '18'
 title: "Pagina introduttiva sulle opere artistiche pittoriche"
-image: /img/Persimmon.jpg
+image: /img/BLUE-round1-8-COLORED.png
 heading: La bellezza del caco
 description: "Pagina introduttiva sulle sezioni delle opere pittoriche"
 templateKey: artworks-intro
@@ -14,22 +14,22 @@ path: /ja/opere/pittura/introduzione/
 slug: /ja/opere/pittura/introduzione/
 intro:
   blurbs:
-    - image: /img/Persimmon.jpg
+    - image: /img/BLUE-round1-8-COLORED.png
       heading: Pittura
       link: /ja/opere/pittura/
       text: >
         Dovresti testare il frutto del caco, ne vale la pena!
-    - image: /img/Kaki.jpg
+    - image: /img/BLUE-round1-8-COLORED.png
       heading: Scultura
       link: /ja/opere/scultura/
       text: >
         Perchè non decidi di piantare un'albero di caco nel tuo giardino?
-    - image: /img/Caco.jpg
+    - image: /img/BLUE-round1-8-COLORED.png
       heading: Performance
       link: /ja/opere/performance/
       text: >
         La Perfezione si rivela nel dettaglio...
-    - image: /img/Kaki_di_Misilmeri.jpg
+    - image: /img/BLUE-round1-8-COLORED.png
       heading: Arte Interattiva
       link: /ja/opere/arte-interattiva/
       text: >

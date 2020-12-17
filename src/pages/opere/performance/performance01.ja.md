@@ -1,7 +1,7 @@
 ---
 id: '24'
 title: "Pagina sulla performance 01 - italiano"
-image: /img/Persimmon.jpg
+image: /img/BLUE-round1-8-COLORED.png
 heading: La bellezza del caco
 description: "Pagina di introduzione dedicata alle opere di performance"
 templateKey: artworks-simple
@@ -14,9 +14,9 @@ slug: /ja/opere/performance/performance01/
 lightbox:
   display: true
   images:
-    - image: /img/Kaki.jpg
+    - image: /img/BLUE-round1-8-COLORED.png
       alt: "qualche Kako sull albero"
-    - image: /img/Persimmon.jpg
+    - image: /img/BLUE-round1-8-COLORED.png
       alt: "Un albero del Kako"
 info:
   title: "Un caco tra le stelle"
@@ -26,10 +26,10 @@ info:
   dimensions: "70x50 cm"  
 intro:
   blurbs:
-    - image: /img/Persimmon.jpg
+    - image: /img/BLUE-round1-8-COLORED.png
       text: >
         Hai mai fatto una performance con un caco? Io si!
-    - image: /img/Kaki.jpg
+    - image: /img/BLUE-round1-8-COLORED.png
       text: >
         Immagina di arrampicarti su di un albero di caco, che cosa vedresti una volta in cima?
 slider:

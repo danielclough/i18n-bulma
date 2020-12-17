@@ -1,7 +1,7 @@
 ---
 id: '17'
 title: "Arte astratta | Un caco tra le stelle"
-image: /img/Persimmon.jpg
+image: /img/BLUE-round1-8-COLORED.png
 heading: "La bellezza della Natura nell'Arte"
 description: "Un caco tra le stelle è un opera astratta realizzata con colore acrilico su tela"
 templateKey: artworks-simple
@@ -14,9 +14,9 @@ slug: /ja/opere/pittura/nuova/arte-astratta-caco-tra-le-stelle/
 lightbox:
   display: true
   images:
-    - image: /img/Kaki.jpg
+    - image: /img/BLUE-round1-8-COLORED.png
       alt: "qualche Kako sull albero"
-    - image: /img/Persimmon.jpg
+    - image: /img/BLUE-round1-8-COLORED.png
       alt: "Un albero del Kako"
 info:
   title: "Un caco tra le stelle"

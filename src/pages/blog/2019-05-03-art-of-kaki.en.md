@@ -5,7 +5,7 @@ title: The Art of Kaki
 date: 2019-05-03
 description: An article to speak about Art and the world around ja.
 lang: en
-image: /img/PersimmonHD.jpg
+image: /img/BLUE-round1-8-COLORED.png
 path: /en/blog/2019-05-03-art-of-kaki
 slug: /en/blog/2019-05-03-art-of-kaki
 tags:

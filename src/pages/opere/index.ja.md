@@ -1,7 +1,7 @@
 ---
 id: '05'
 title: "Pagina principale opere italiano"
-image: /img/Persimmon.jpg
+image: /img/BLUE-round1-8-COLORED.png
 heading: La bellezza del caco
 headingDesc: >
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -15,22 +15,22 @@ path: /ja/opere/
 slug: /ja/opere/
 intro:
   blurbs:
-    - image: /img/Persimmon.jpg
+    - image: /img/BLUE-round1-8-COLORED.png
       heading: Pittura
       link: /ja/opere/pittura/
       text: >
         In queste pagine potete trovare alcune interessante riflessioni sul caco.
-    - image: /img/Kaki.jpg
+    - image: /img/BLUE-round1-8-COLORED.png
       heading: Scultura
       link: /ja/opere/scultura/
       text: >
         Molti artisti hanno ritratto l'albero del caco, scopri quanti ne sono rimasti affascinati.
-    - image: /img/Caco.jpg
+    - image: /img/BLUE-round1-8-COLORED.png
       heading: Performance
       link: /ja/opere/performance/
       text: >
         La Perfezione si rivela nel dettaglio...
-    - image: /img/Kaki_di_Misilmeri.jpg
+    - image: /img/BLUE-round1-8-COLORED.png
       heading: Arte Interattiva
       link: /ja/opere/arte-interattiva/
       text: >

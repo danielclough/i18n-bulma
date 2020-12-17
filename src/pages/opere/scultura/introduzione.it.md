@@ -1,7 +1,7 @@
 ---
 id: '10'
 title: "Pagina di opere di scultura introduzione - italiano"
-image: /img/Persimmon.jpg
+image: /img/BLUE-round1-8-COLORED.png
 heading: La bellezza del caco
 description: "Pagina dedicata alle opere di scultura - introduzione"
 templateKey: artworks-intro
@@ -13,10 +13,10 @@ path: /ja/opere/scultura/introduzione/
 slug: /ja/opere/scultura/introduzione/
 intro:
   blurbs:
-    - image: /img/Persimmon.jpg
+    - image: /img/BLUE-round1-8-COLORED.png
       text: >
         Chi avrebbe mai pensato che un caco è perfetto per una scultura?
-    - image: /img/Kaki.jpg
+    - image: /img/BLUE-round1-8-COLORED.png
       text: >
         Per quanti alberi abbia mai visto, niente eguaglia il legno di caco...
 slider:

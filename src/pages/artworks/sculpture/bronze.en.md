@@ -1,7 +1,7 @@
 ---
 id: '21'
 title: "Artworks Introduction page - Bronze Sculpture"
-image: /img/Persimmon.jpg
+image: /img/BLUE-round1-8-COLORED.png
 heading: The beauty of Persimmon
 description: "An introduction for the bronze artworks sculpture page"
 templateKey: artworks-intro
@@ -13,12 +13,12 @@ path: /en/artworks/sculpture/bronze/
 slug: /en/artworks/sculpture/bronze/
 intro:
   blurbs:
-    - image: /img/Persimmon.jpg
+    - image: /img/BLUE-round1-8-COLORED.png
       heading: Painting
       link: /en/artworks/painting/
       text: >
         You should test the fruit of the persimmon, it's worth it!
-    - image: /img/Kaki.jpg
+    - image: /img/BLUE-round1-8-COLORED.png
       heading: Sculpture
       link: /en/artworks/sculpture/
       text: >
@@ -28,7 +28,7 @@ intro:
       link: /en/artworks/performance/
       text: >
         The Perfection is revealed in detail...
-    - image: /img/Kaki_di_Misilmeri.jpg
+    - image: /img/BLUE-round1-8-COLORED.png
       heading: Interactive Art
       link: /en/artworks/interactivity/
       text: >

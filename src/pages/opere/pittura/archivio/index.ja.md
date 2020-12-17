@@ -1,7 +1,7 @@
 ---
 id: '20'
 title: "Pagina opere di pittura meno recenti - italiano"
-image: /img/Persimmon.jpg
+image: /img/BLUE-round1-8-COLORED.png
 heading: La bellezza del caco
 description: "Pagina dedicata alle opere di pittura meno recenti"
 templateKey: artworks
@@ -13,10 +13,10 @@ path: /ja/opere/pittura/archivio/
 slug: /ja/opere/pittura/archivio/
 intro:
   blurbs:
-    - image: /img/Persimmon.jpg
+    - image: /img/BLUE-round1-8-COLORED.png
       text: >
         Il caco è un frutto che cresce su un albero e in autunno si tinge di arancio...Quanti poeti ha ispirato?
-    - image: /img/Kaki.jpg
+    - image: /img/BLUE-round1-8-COLORED.png
       text: >
         Molti Kaki maturi su un albero. Un bellissimo soggetto per la pittura.
 slider:

@@ -1,7 +1,7 @@
 ---
 id: '05'
 title: "Artworks start page english"
-image: /img/Persimmon.jpg
+image: /img/BLUE-round1-8-COLORED.png
 heading: The beauty of Persimmon
 headingDesc: >
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -15,22 +15,22 @@ path: /en/artworks/
 slug: /en/artworks/
 intro:
   blurbs:
-    - image: /img/Persimmon.jpg
+    - image: /img/BLUE-round1-8-COLORED.png
       heading: Painting
       link: /en/artworks/painting/
       text: >
         In these pages you can find some interesting reflections on the persimmon.
-    - image: /img/Kaki.jpg
+    - image: /img/BLUE-round1-8-COLORED.png
       heading: Sculpture
       link: /en/artworks/sculpture/
       text: >
         Many artists have portrayed the persimmon tree, discover how many they have been fascinated by.
-    - image: /img/Caco.jpg
+    - image: /img/BLUE-round1-8-COLORED.png
       heading: Performance
       link: /en/artworks/performance/
       text: >
         The Perfection is revealed in detail...
-    - image: /img/Kaki_di_Misilmeri.jpg
+    - image: /img/BLUE-round1-8-COLORED.png
       heading: Interactive Art
       link: /en/artworks/interactivity/
       text: >

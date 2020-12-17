@@ -1,7 +1,7 @@
 ---
 id: '28'
 title: "Experimental artworks page introdcution - english"
-image: /img/Persimmon.jpg
+image: /img/BLUE-round1-8-COLORED.png
 heading: The beauty of Persimmon
 description: "Experimental Artworks introduction page"
 templateKey: artworks-intro
@@ -13,10 +13,10 @@ path: /en/artworks/new-media/experimental/
 slug: /en/artworks/new-media/experimental/
 intro:
   blurbs:
-    - image: /img/Persimmon.jpg
+    - image: /img/BLUE-round1-8-COLORED.png
       text: >
         We should interact more with the persimmon, it would improve its health!
-    - image: /img/Kaki.jpg
+    - image: /img/BLUE-round1-8-COLORED.png
       text: >
         Have you ever thought of creating a persimmon forest?
 slider:

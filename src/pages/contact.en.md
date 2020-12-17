@@ -6,7 +6,7 @@ templateKey: contacts
 tags:
   - web
 lang: en
-image: /img/PersimmonHD.jpg
+image: /img/BLUE-round1-8-COLORED.png
 date: "08-03-2019"
 address: "1138 Magic Way, 34121 Koriko, USA "
 phone: '+1 2345678910'
@@ -18,8 +18,8 @@ locations:
    lng: -115.1398
    message: 'Kiki is here!'
 imageCardSL:
-  alt: "immagine"
-  image: /img/128x128.png
+  alt: "Kiki's Quilts"
+  image: /img/BLUE-round1-8-COLORED.png
   name: Kiki
   description: Exploring Japanese and American Crafts!
   website: www.kikisquilts.com
